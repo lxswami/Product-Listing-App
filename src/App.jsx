@@ -2,7 +2,8 @@ import React from 'react'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import Layout from './components/Layout'
 import Listing from './components/Listing'
-import ProductDetails from './components/productDetails'
+import ProductDetails from './components/ProductDetails'
+
 import Cart from './components/Cart'
 
 export default function App() {
